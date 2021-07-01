@@ -15,7 +15,7 @@ function init(){
     $('#desc').text(CONFIG.desc)
     $('#yes').text(CONFIG.btnYes)
     $('#no').text(CONFIG.btnNo)
-    var audio = new Audio('sound/duck.mp3');
+    var audio = new Audio('y2mate.com - Phải Chăng Em Đã Yêu Lofi ver .mp3');
 }
 
 function firstQuestion(){
