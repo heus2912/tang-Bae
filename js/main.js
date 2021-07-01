@@ -16,6 +16,7 @@ function init(){
     $('#yes').text(CONFIG.btnYes)
     $('#no').text(CONFIG.btnNo)
     var audio = new Audio('sound/y2mate.com - Phải Chăng Em Đã Yêu Lofi ver .mp3');
+     audio.play();
 }
 
 function firstQuestion(){
